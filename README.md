@@ -3,6 +3,7 @@
 * 👩🏼‍💻 Estudante de ADS 
 * 💻 Analista de Sistemas ( SQL SERVER | BANCO DE DADOS | POWER BI ) 
 * 👩🏼‍💻 Estudando C# | Python 
+
 <div>
   <a href="https://github.com/osmanhenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmanhenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
