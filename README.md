@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Osman Henrique.
 
 * 👩🏼‍💻 Estudante de ADS 
-* 💻 Analista de Sistemas ( SQL SERVER | POWER BI ) 
+* 💻 Analista de Sistemas ( SQL SERVER | BANCO DE DADOS | POWER BI ) 
 * 👩🏼‍💻 Estudando C# | Python 
 <div>
   <a href="https://github.com/osmanhenrique">
