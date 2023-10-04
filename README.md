@@ -1,7 +1,6 @@
-### Oi! Eu sou o Osman Henrique
+### Olá! Me chamo Osman Henrique
 
-* 💻 Analista de Sistemas ( SQL SERVER | BANCO DE DADOS | POWER BI ) 
-* 👩🏼‍💻 Estudando C# | Java | .NET | Python
+* 💻 Analista de Sistemas 
 
 <div>
   <a href="https://github.com/osmanhenrique">
